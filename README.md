@@ -7,8 +7,6 @@
 # Description :smiley:
 ###### This repository contains a bash script for automating the process of configuring a Raspberry Pi running Kali Linux as a dropbox suitable for remote pentesting. This script does the job in an automated way and provides the end user comfort to sit back and relax.
 
-# Screenshots
-
 
 # Installation
 
